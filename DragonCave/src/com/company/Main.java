@@ -10,7 +10,7 @@ public class Main {
     // Dragon Cave Introduction
     String Intro =
             "\nYou are in a land full of dragons. In front of you," +
-            "\nyou see two caves. In one cave, the drangon is friendly" +
+            "\nyou see two caves. In one cave, the dragon is friendly" +
             "\nand will share his treasures with you. The other dragon" +
             "\nis greedy and hungry and will eat you on sight." +
             "\nWhich cave will you go into? (1 or 2)\n";
@@ -27,7 +27,5 @@ public class Main {
                 "\nA large dragon jumps out in front of you! He opens his jaw and..." +
                 "\nGobbles you down in one bite!";
         System.out.println(Ending);
-
-
     }
 }
